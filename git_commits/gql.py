@@ -5,7 +5,7 @@ from writedb import writedb
 
 class Main:
   def git_activities():
-    api_token = "900fdf67e67e9fc5818e8343f5c0742ea2f4bdc6"
+    api_token = "xxxxxxxxxxxxxxxxxxxxxxxxx"
 
     url = 'https://api.github.com/graphql'
 
